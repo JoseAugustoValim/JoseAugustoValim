@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My Name is Jose Valim and i'm Software Enginner.
+
+Actually i'm working with Salesforce Development.
+
+The technologies I'm most interested in are: Html, Css and JavaScript.
+
+Thanks for view! 🤗
+
 <!--
 **JoseAugustoValim/JoseAugustoValim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
