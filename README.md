@@ -14,9 +14,13 @@ Thanks for view! 🤗
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-plain.svg">
-
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Jose-Sales" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-plain.svg">
+  <img align="center" alt="Jose-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Jose-Css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css/css-plain.svg">
+  <img align="center" alt="Jose-Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-plain.svg">
+  <img align="center" alt="Jose-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  
+  
 </div>
 <!--
 **JoseAugustoValim/JoseAugustoValim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
