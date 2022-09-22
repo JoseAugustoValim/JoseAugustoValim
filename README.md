@@ -2,9 +2,9 @@
 
 My Name is Jose Valim and i'm Software Enginner.
 
-Actually i'm working with Salesforce Development.
+Actually i'm working with FrontEnd developer.
 
-The technologies I'm most interested in are: Html, Css and JavaScript.
+The technologies I'm most interested in are: Html, Css, Javascript and Drupal.
 
 Thanks for view! 🤗
 <div>
