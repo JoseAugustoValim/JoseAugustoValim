@@ -4,7 +4,7 @@ My Name is Jose Valim and i'm Software Enginner.
 
 Actually i'm working with FrontEnd developer.
 
-The technologies I'm most interested in are: Html, Css, Javascript and Drupal.
+The technologies I'm most interested in are: Html, Css, Javascript, Nodejs and React.
 
 Thanks for view! 🤗
 <div>
