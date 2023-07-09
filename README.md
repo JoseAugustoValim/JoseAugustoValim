@@ -2,9 +2,9 @@
 
 My Name is Jose Valim and i'm Software Enginner.
 
-Actually i'm working with FrontEnd developer.
+Actually i'm working with Mobile developer.
 
-The technologies I'm most interested in are: Html, Css, Javascript, Nodejs and React.
+The technologies I'm most interested in are: Android Native and React Native.
 
 Thanks for view! 🤗
 <div>
