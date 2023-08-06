@@ -1,12 +1,3 @@
-### Hi there 👋
-
-My Name is Jose Valim and i'm Software Enginner.
-
-Actually i'm working with Mobile developer.
-
-The technologies I'm most interested in are: Android Native and React Native.
-
-Thanks for view! 🤗
 <div>
   <a href="https://github.com/JoseAugustoValim">
 </div>
