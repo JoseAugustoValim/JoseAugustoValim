@@ -5,7 +5,7 @@
 ## Atualmente atuo com:
   
 <div style="display: inline_block"><br>
-  <img src= "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" target="_blank">
+  <img src= "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=blue" target="_blank">
   <img src= "https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" target="_blank">
 </div>
   
