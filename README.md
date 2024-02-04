@@ -4,7 +4,7 @@
 
 # :punch: Salve:
 
-<h2>Sobre mim:</h2>
+Sobre mim:
 
 🏡 Maringá, Paraná, Brasil.
 
