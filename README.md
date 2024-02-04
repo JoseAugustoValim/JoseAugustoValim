@@ -2,6 +2,8 @@
   <a href="https://github.com/JoseAugustoValim">
 </div>
 
+## :punch: Salve:
+
 ## Atualmente atuo com:
   
 <div style="display: inline_block"><br>
