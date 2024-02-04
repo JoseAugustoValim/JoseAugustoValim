@@ -2,7 +2,7 @@
   <a href="https://github.com/JoseAugustoValim">
 </div>
 
-# :punch: Salve:
+<h1> :punch: Salve: </h1>
 
 <h2>Sobre mim:</h2>
 
