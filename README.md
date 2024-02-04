@@ -2,7 +2,15 @@
   <a href="https://github.com/JoseAugustoValim">
 </div>
 
-## :punch: Salve:
+# :punch: Salve:
+
+<h2>Sobre mim:</h2>
+
+🏡 Maringá, Paraná, Brasil.
+
+🎓 Graduação em Ciência da Computação
+
+💬 Português | Inglês Avançado 
 
 ## Atualmente atuo com:
   
