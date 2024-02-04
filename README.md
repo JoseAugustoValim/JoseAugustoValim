@@ -4,7 +4,7 @@
 
 # :punch: Salve:
 
-Sobre mim:
+<h2>Sobre mim:</h2>
 
 🏡 Maringá, Paraná, Brasil.
 
@@ -14,7 +14,7 @@ Sobre mim:
 
 ## Atualmente atuo com:
   
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img src= "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" target="_blank">
   <img src= "https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" target="_blank">
   <img src ="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" target="_blank">
